@@ -1,0 +1,32 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    color: white;
+    padding: 20px;
+  }
+  
+  .workspace {
+    border: 2px dashed #ccc;
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .code-preview {
+    margin: 20px;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+  }
+  
+  pre {
+    text-align: left;
+    background-color: #282c34;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+  }
